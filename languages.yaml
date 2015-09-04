@@ -560,44 +560,44 @@ es:
     UNINSTALL_SUCCESSFUL: Desinstalación exitosa
     SUCCESSFULLY_SAVED: Successfully saved
     SUCCESSFULLY_COPIED: Successfully copied
-    REORDERING_WAS_SUCCESSFUL: Reordering was successful
-    SUCCESSFULLY_DELETED: Successfully deleted
-    SUCCESSFULLY_SWITCHED_LANGUAGE: Successfully switched language
-    INSUFFICIENT_PERMISSIONS_FOR_TASK: You have insufficient permissions for task
-    CACHE_CLEARED: Cache cleared
-    METHOD: Method
-    ERROR_CLEARING_CACHE: Error clearing cache
-    AN_ERROR_OCCURRED: An error occurred
-    YOUR_BACKUP_IS_READY_FOR_DOWNLOAD: Your backup is ready for download
-    DOWNLOAD_BACKUP: Download backup
-    PAGES_FILTERED: Pages filtered
-    NO_PAGE_FOUND: No Page found
-    INVALID_PARAMETERS: Invalid Parameters
-    NO_FILES_SENT: No files sent
-    EXCEEDED_FILESIZE_LIMIT: Exceeded filesize limit
-    UNKNOWN_ERRORS: Unkown errors
-    EXCEEDED_GRAV_FILESIZSE_LIMIT: Exceeded Grav filesize limit.
-    UNSUPPORTED_FILE_TYPE: Unsupported file type
-    FAILED_TO_MOVE_UPLOADED_FILE: Failed to move uploaded file.
-    FILE_UPLOADED_SUCCESSFULLY: File uploaded successfully
-    FILE_DELETED: File deleted
-    FILE_COULD_NOT_BE_DELETED: File could not be deleted
-    FILE_NOT_FOUND: File not found
-    NO_FILE_FOUND: No file found
+    REORDERING_WAS_SUCCESSFUL: Reordenamiento exitoso
+    SUCCESSFULLY_DELETED: Eliminado correctamente
+    SUCCESSFULLY_SWITCHED_LANGUAGE: Idioma cambiado con éxito
+    INSUFFICIENT_PERMISSIONS_FOR_TASK: No posee permisos suficientes para realizar esta tarea
+    CACHE_CLEARED: Cache limpiada
+    METHOD: Método
+    ERROR_CLEARING_CACHE: Error limpiando la cache
+    AN_ERROR_OCCURRED: Ha ocurrido un error
+    YOUR_BACKUP_IS_READY_FOR_DOWNLOAD: Su respaldo está listo para ser descargado
+    DOWNLOAD_BACKUP: Descargar respaldo
+    PAGES_FILTERED: Páginas filtradas
+    NO_PAGE_FOUND: Página no encontrada
+    INVALID_PARAMETERS: Parámetros incorrectos
+    NO_FILES_SENT: No se envió ningún archivo
+    EXCEEDED_FILESIZE_LIMIT: Límite de tamaño de archivo excedido
+    UNKNOWN_ERRORS: Errores desconocidos
+    EXCEEDED_GRAV_FILESIZSE_LIMIT: Superado límite de tamaño de archivo Grav.
+    UNSUPPORTED_FILE_TYPE: Formato no soportado
+    FAILED_TO_MOVE_UPLOADED_FILE: Falló al mover el archivo.
+    FILE_UPLOADED_SUCCESSFULLY: Archivo subido correctamente
+    FILE_DELETED: Archivo eliminado
+    FILE_COULD_NOT_BE_DELETED: El archivo no se pudo eliminar
+    FILE_NOT_FOUND: Archivo no encontrado
+    NO_FILE_FOUND: No se encontró el archivo
     GRAV_WAS_SUCCESSFULLY_UPDATED_TO: Grav was successfully updated to
-    GRAV_UPDATE_FAILED: Grav update failed
-    EVERYTHING_UPDATED: Everything updated
-    UPDATES_FAILED: Updates failed
-    AVATAR_BY: Avatar by
-    LAST_BACKUP: Last Backup
-    FULL_NAME: Full name
-    USERNAME: Username
+    GRAV_UPDATE_FAILED: Grav falló al actualizar
+    EVERYTHING_UPDATED: Todo fue actualizado
+    UPDATES_FAILED: Las actualizaciones fallaron
+    AVATAR_BY: Avatar por
+    LAST_BACKUP: Último respaldo
+    FULL_NAME: Nombre completo
+    USERNAME: Nombre de usuario
     EMAIL: Email
-    PASSWORD: Password
-    TITLE: Title
-    LANGUAGE: Language
-    ACCOUNT: Account
-    EMAIL_VALIDATION_MESSAGE: Must be a valid email address
+    PASSWORD: Contraseña
+    TITLE: Título
+    LANGUAGE: Idioma
+    ACCOUNT: Cuenta
+    EMAIL_VALIDATION_MESSAGE: Debe ser una dirección de email válida
     PASSWORD_VALIDATION_MESSAGE: Password must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters
     LANGUAGE_HELP: Set the favorite language
     MEDIA: Media
@@ -818,7 +818,7 @@ es:
     ABSOLUTE_URLS_HELP: "Absolute or relative URLs for `base_url`"
     PARAMETER_SEPARATOR: Parameter separator
     PARAMETER_SEPARATOR_HELP: "Separater for passed parameters that can be changed for Apache on Windows"
-    TASK_COMPLETED: Tarea completada
+    TASK_COMPLETED: Tarea completa
     EVERYTHING_UP_TO_DATE: Todo está actualizado
     UPDATES_ARE_AVAILABLE: hay actualizaciones disponibles
     IS_AVAILABLE_FOR_UPDATE: está disponible para su actualización
