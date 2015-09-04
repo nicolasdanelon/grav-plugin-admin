@@ -584,7 +584,7 @@ es:
     FILE_COULD_NOT_BE_DELETED: El archivo no se pudo eliminar
     FILE_NOT_FOUND: Archivo no encontrado
     NO_FILE_FOUND: No se encontró el archivo
-    GRAV_WAS_SUCCESSFULLY_UPDATED_TO: Grav was successfully updated to
+    GRAV_WAS_SUCCESSFULLY_UPDATED_TO: Grav fue actualizado correctamente a
     GRAV_UPDATE_FAILED: Grav falló al actualizar
     EVERYTHING_UPDATED: Todo fue actualizado
     UPDATES_FAILED: Las actualizaciones fallaron
@@ -598,38 +598,38 @@ es:
     LANGUAGE: Idioma
     ACCOUNT: Cuenta
     EMAIL_VALIDATION_MESSAGE: Debe ser una dirección de email válida
-    PASSWORD_VALIDATION_MESSAGE: Password must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters
-    LANGUAGE_HELP: Set the favorite language
-    MEDIA: Media
-    DEFAULTS: Defaults
-    SITE_TITLE: Site Title
-    SITE_TITLE_PLACEHOLDER: Site wide title
-    SITE_TITLE_HELP: Default title for your site, often used in themes
-    DEFAULT_AUTHOR: Default Author
-    DEFAULT_AUTHOR_HELP: "A default author name, often used in themes or page content"
-    DEFAULT_EMAIL: Default Email
-    DEFAULT_EMAIL_HELP: "A default email to reference in themes or pages"
-    TAXONOMY_TYPES: Taxonomy Types
-    TAXONOMY_TYPES_HELP: "Taxonomy types must be defined here if you wish to use them in pages"
-    PAGE_SUMMARY: Page Summary
-    ENABLED: Enabled
-    ENABLED_HELP: "Enable page summary (the summary returns the same as the page content)"
-    YES: Yes
+    PASSWORD_VALIDATION_MESSAGE: La contraseña debe contener al menos un número y al menos una mayúscula, minúsculas y 8 o más caracteres
+    LANGUAGE_HELP: Ajuste al idioma preferido
+    MEDIA: Medios
+    DEFAULTS: Predeterminados
+    SITE_TITLE: Título del sitio
+    SITE_TITLE_PLACEHOLDER: Título del sitio predeterminado
+    SITE_TITLE_HELP: Título predeterminado para su sitio, utilizado a menudo en varios temas
+    DEFAULT_AUTHOR: Autor predeterminado
+    DEFAULT_AUTHOR_HELP: "Un autor predeterminado, usandos en los temas o contenido de la página"
+    DEFAULT_EMAIL: Email predeterminado
+    DEFAULT_EMAIL_HELP: "Un email predeterminado para hacer referencia en las páginas de los temas"
+    TAXONOMY_TYPES: Tipos Taxonomía
+    TAXONOMY_TYPES_HELP: "Los tipos de taxonomía deben definirse aquí si desea utilizarlos en las páginas"
+    PAGE_SUMMARY: Resumen de la Página
+    ENABLED: Activado
+    ENABLED_HELP: "Activar Resumen de contenido (el resumen devuelve el mismo contenido de la página)"
+    YES: Si
     NO: No
-    SUMMARY_SIZE: Summary Size
-    SUMMARY_SIZE_HELP: "The amount of characters of a page to use as a content summary"
-    FORMAT: Format
-    FORMAT_HELP: short = use the first occurrence of delimiter or size; long = summary delimiter will be ignored
-    SHORT: Short
-    LONG: Long
-    DELIMITER: Delimiter
+    SUMMARY_SIZE: Resumen de contenido
+    SUMMARY_SIZE_HELP: "La cantidad de caracteres de una página que se utiliza como un resumen de contenido"
+    FORMAT: Formato
+    FORMAT_HELP: cortas = utilizan la primera aparición de delimitador o el tamaño; largo = Resumen delimitador se ignorará
+    SHORT: Corto
+    LONG: Largo
+    DELIMITER: Delimitador
     DELIMITER_HELP: "The summary delimiter (default '===')"
     METADATA: Metadata
     METADATA_HELP: "Default metadata values that will be displayed on every page unless overridden by the page"
-    NAME: Name
-    CONTENT: Content
-    REDIRECTS_AND_ROUTES: Redirects & Routes
-    CUSTOM_REDIRECTS: Custom Redirects
+    NAME: Nombre
+    CONTENT: Contenido
+    REDIRECTS_AND_ROUTES: Redirecciones y Rutas
+    CUSTOM_REDIRECTS: Redirecciones personalizadas
     CUSTOM_REDIRECTS_HELP: "routes to redirect to other pages. Standard Regex replacement is valid"
     CUSTOM_REDIRECTS_PLACEHOLDER_KEY: /your/alias
     CUSTOM_REDIRECTS_PLACEHOLDER_VALUE: /your/redirect
@@ -818,6 +818,27 @@ es:
     ABSOLUTE_URLS_HELP: "Absolute or relative URLs for `base_url`"
     PARAMETER_SEPARATOR: Parameter separator
     PARAMETER_SEPARATOR_HELP: "Separater for passed parameters that can be changed for Apache on Windows"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     TASK_COMPLETED: Tarea completa
     EVERYTHING_UP_TO_DATE: Todo está actualizado
     UPDATES_ARE_AVAILABLE: hay actualizaciones disponibles
